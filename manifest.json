@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "metadata": {
+    "appmode": "python-shiny",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.13.11",
+    "package_manager": {
+      "name": "pip",
+      "version": "25.3",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "a8778e9bce6823f0c9e3a9721fcf13a3"
+    },
+    ".DS_Store": {
+      "checksum": "a2d9323cdb8840fb4ae6d060903c607e"
+    },
+    ".gitignore": {
+      "checksum": "95920b86a422defed4dd996e6b63013a"
+    },
+    "README.md": {
+      "checksum": "f8bd911d62912f1bdb63d3c9107340bc"
+    },
+    "app.py": {
+      "checksum": "0a8db16b8230d03ec0a455afef92dc8d"
+    },
+    "create_lottery_map.py": {
+      "checksum": "3121f974f8fd9f2dc0b51d134ea70eb5"
+    },
+    "georgia_lottery.parquet": {
+      "checksum": "0f2d198ce0a3ab651951f14259bc43be"
+    }
+  }
+}
