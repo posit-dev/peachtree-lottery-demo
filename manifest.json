@@ -6,7 +6,7 @@
     "entrypoint": "app"
   },
   "python": {
-    "version": "3.13.11",
+    "version": "3.12.3",
     "package_manager": {
       "name": "pip",
       "version": "25.3",
@@ -17,11 +17,26 @@
     "requirements.txt": {
       "checksum": "a8778e9bce6823f0c9e3a9721fcf13a3"
     },
-    ".DS_Store": {
-      "checksum": "a2d9323cdb8840fb4ae6d060903c607e"
-    },
     ".gitignore": {
-      "checksum": "95920b86a422defed4dd996e6b63013a"
+      "checksum": "0167e45279a9b87e6c28043f8bff6e74"
+    },
+    ".posit/publish/2026 Georgia Lottery Sales For-N306.toml": {
+      "checksum": "133af2fce39c2394093bffd3cede6b5f"
+    },
+    ".posit/publish/deployments/deployment-03OU.toml": {
+      "checksum": "f9b69e30e0f5567386d8df61e6acd875"
+    },
+    ".posit/publish/deployments/deployment-C3TJ.toml": {
+      "checksum": "0aaee53ebfcb5aa74f4cf25cf1e83873"
+    },
+    ".posit/publish/deployments/deployment-KET3.toml": {
+      "checksum": "9fab3713f84e9f7e7e7642fe0d753fa8"
+    },
+    ".posit/publish/peachtree-lottery-app-AR2L.toml": {
+      "checksum": "98461b1b8c6ae137a1a622d048953659"
+    },
+    ".posit/publish/peachtree-lottery-dashboard-3Q84.toml": {
+      "checksum": "a39c244fcb5194d6f447acc0b1b37ab9"
     },
     "README.md": {
       "checksum": "f8bd911d62912f1bdb63d3c9107340bc"
@@ -34,6 +49,9 @@
     },
     "georgia_lottery.parquet": {
       "checksum": "0f2d198ce0a3ab651951f14259bc43be"
+    },
+    "peachtree-lottery-demo.Rproj": {
+      "checksum": "c8d3f84a410f46d4d8b03a268e313e35"
     }
   }
 }
